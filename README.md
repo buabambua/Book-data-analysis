@@ -7,7 +7,7 @@ Python (Pandas, Matplotlib, Seaborn, Missingno)
 Jupyter Notebook
 
 # Key Processes
-Data Cleaning: Handled missing values, formatted numeric columns (pages, rating), and filtered publication years (1950-2023).
+Data Cleaning: Handled missing values, formatted numeric columns (pages, rating), and filtered publication years (1950-2025).
 
 EDA: Analyzed distribution of books and identified publication trends.
 
